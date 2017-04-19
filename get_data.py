@@ -13,6 +13,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 from scipy import spatial
 from datetime import datetime
 import os.path
+import numpy as np
 
 ### GLOBAL VARIABLES ### #TODO
 # Stop words
@@ -73,7 +74,7 @@ def get_book(book_num):
             print("Download failed, retrying book %d" % book_num)
             pass
             
-    if False:
+    if False: #TODO
         # set the url and get the HTML for BeautifulSoup to parse
         html = urlopen("http://www.gutenberg.org/ebooks/" + str(book_num)).read()
         soup = BeautifulSoup(html, 'html.parser')
@@ -103,7 +104,7 @@ def get_book(book_num):
     # return the book object
     return Book(book_num, author, pub_date, text, words)
         
-        
+      
 # Main Function
 def main():
     
@@ -132,7 +133,8 @@ def main():
     for i in range(len(books)):
         for j in range(len(books)):
             similarity = 1 - spatial.distance.cosine(books[i].vector, books[j].vector)
-            if similarity >= SIMILARITY_THRESHOLD and i is not j:
+            if (similarity >= SIMILARITY_THRESHOLD and
+                books[i].pub_date <= books[j].pub_date and i is not j):
               print("Book %d, Book %d: %f" % (i+1, j+1, similarity))
             
     #for i in range(len(word_list)):
