@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of The Book Of Mormon, by Anonymous
+The Project Gutenberg EBook of The Book Of Mormon, by Anonymous
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -20,6 +20,7 @@ Last updated: February 1, 2013
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE BOOK OF MORMON ***
 

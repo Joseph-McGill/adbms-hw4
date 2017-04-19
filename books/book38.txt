@@ -1,4 +1,4 @@
-﻿Project Gutenberg's The Jargon File, Version 2.9.10, 01 Jul 1992, by Various
+Project Gutenberg's The Jargon File, Version 2.9.10, 01 Jul 1992, by Various
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -15,6 +15,7 @@ Release Date: August, 1992
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK JARGON FILE, 01 JUL 1992 ***
 

@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of Paradise Lost, by John Milton
+The Project Gutenberg EBook of Paradise Lost, by John Milton
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -15,6 +15,7 @@ Release Date: February, 1992 [EBook #26]
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK PARADISE LOST ***
 
@@ -11088,3 +11089,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+

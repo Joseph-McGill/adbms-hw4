@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of The War of the Worlds, by H. G. Wells
+The Project Gutenberg EBook of The War of the Worlds, by H. G. Wells
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -15,6 +15,7 @@ Release Date: July, 1992 [EBook #36]
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE WAR OF THE WORLDS ***
 
@@ -6867,3 +6868,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+

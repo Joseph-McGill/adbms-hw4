@@ -1,4 +1,4 @@
-﻿
+
 
 ===========================================================
 
@@ -1996,6 +1996,7 @@ Edition: 12
 
 Language: English
 
+Character set encoding: ASCII
 
 ***
 
@@ -2529,3 +2530,4 @@ of Project Gutenberg eBooks or other materials be they hardware or
 software or any other related product without express permission.]
 
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

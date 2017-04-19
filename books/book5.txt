@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of The United States' Constitution
+The Project Gutenberg EBook of The United States' Constitution
 by  Founding Fathers
 
 Copyright laws are changing all over the world. Be sure to check the
@@ -36,6 +36,7 @@ Edition: 11
 
 Language: English
 
+Character set encoding: US-ASCII
 
 *** START OF THE PROJECT GUTENBERG EBOOK, THE UNITED STATES' CONSTITUTION ***
 
@@ -993,3 +994,4 @@ they hardware or software or any other related product without
 express permission.]
 
 *END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

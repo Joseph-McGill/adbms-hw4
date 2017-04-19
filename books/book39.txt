@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of Hitchhiker's Guide to the Internet, by Ed Krol
+The Project Gutenberg EBook of Hitchhiker's Guide to the Internet, by Ed Krol
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -17,6 +17,7 @@ Release Date: September, 1992
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK HITCHHIKER'S GUIDE TO THE INTERNET ***
 

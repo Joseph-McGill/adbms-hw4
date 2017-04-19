@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of Census of Population and Housing, 1990 [2nd], by 
+The Project Gutenberg EBook of Census of Population and Housing, 1990 [2nd], by 
 United States Bureau of the Census
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -16,6 +16,7 @@ Release Date: August, 1992
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK US CENSUS OF POPULATION, 1990 (2ND) ***
 

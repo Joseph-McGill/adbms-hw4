@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of Lincoln's Second Inaugural Address, March
+The Project Gutenberg EBook of Lincoln's Second Inaugural Address, March
 4, 1865, by Abraham Lincoln
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -16,6 +16,7 @@ Release Date: December, 1978
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK LINCOLN'S SECOND INAUGURAL ***
 

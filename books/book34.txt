@@ -1,4 +1,4 @@
-﻿Project Gutenberg's Zen and the Art of the Internet, by Brendan P. Kehoe
+Project Gutenberg's Zen and the Art of the Internet, by Brendan P. Kehoe
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -17,6 +17,7 @@ Release Date: June, 1992
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK ZEN AND THE ART OF THE INTERNET ***
 

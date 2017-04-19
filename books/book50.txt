@@ -14,6 +14,7 @@ Release Date: June 20, 2008 [EBook #50]
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK PI ***
 

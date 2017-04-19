@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of The 1991 CIA World Factbook, by 
+The Project Gutenberg EBook of The 1991 CIA World Factbook, by 
 United States.  Central Intelligence Agency.
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -16,6 +16,7 @@ Release Date: January, 1992
 
 Language: English
 
+Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE 1991 CIA WORLD FACTBOOK ***
 
