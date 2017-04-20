@@ -1,50 +1,50 @@
-1; The Declaration of Independence of the United States of America; Jefferson, Thomas; Dec 01, 1971
-2; The United States Bill of Rights; United States; Dec 01, 1972
-3; John F. Kennedy's Inaugural Address; Kennedy, John F. (John Fitzgerald); Nov 01, 1973
-4; Lincoln's Gettysburg Address; Lincoln, Abraham; Nov 01, 1973
-5; The United States Constitution; United States; Dec 01, 1975
-6; Give Me Liberty or Give Me Death; Henry, Patrick; Dec 01, 1976
-7; The Mayflower Compact; None; Dec 01, 1977
-8; Abraham Lincoln's Second Inaugural Address; Lincoln, Abraham; Dec 01, 1978
-9; Abraham Lincoln's First Inaugural Address; Lincoln, Abraham; Dec 01, 1979
-10; The King James Version of the Bible; None; Aug 01, 1989
-11; Alice's Adventures in Wonderland; Carroll, Lewis; Jun 27, 2008
-12; Through the Looking-Glass; Carroll, Lewis; Jun 25, 2008
-13; The Hunting of the Snark: An Agony in Eight Fits; Carroll, Lewis; Jun 25, 2008
-14; The 1990 CIA World Factbook; United States. Central Intelligence Agency; Apr 01, 1991
-15; Moby Dick; Melville, Herman; May 01, 1991
-16; Peter Pan; Barrie, J. M. (James Matthew); Jun 25, 2008
-17; The Book of Mormon; Church of Jesus Christ of Latter-day Saints; Jun 25, 2008
-18; The Federalist Papers; Hamilton, Alexander; Aug 01, 1991
-19; The Song of Hiawatha; Longfellow, Henry Wadsworth; Jun 01, 2004
-20; Paradise Lost; Milton, John; Oct 01, 1991
-21; Aesop's Fables; Aesop; Jun 25, 2008
-22; Roget's Thesaurus; Roget, Peter Mark; Dec 01, 1991
-23; Narrative of the Life of Frederick Douglass, an American Slave; Douglass, Frederick; Jan 12, 2006
-24; O Pioneers!; Cather, Willa; Jun 27, 2008
-25; The 1991 CIA World Factbook; United States. Central Intelligence Agency; Feb 01, 1992
-26; Paradise Lost; Milton, John; Feb 01, 1992
-27; Far from the Madding Crowd; Hardy, Thomas; Mar 01, 1992
-28; Aesop's Fables; Aesop; Mar 01, 1992
-29; The 1990 United States Census; United States. Bureau of the Census; Apr 01, 1992
-30; The Bible, King James Version, Complete; None; Apr 01, 1992
-31; Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone; Sophocles; Mar 08, 2006
-32; Herland; Gilman, Charlotte Perkins; Jun 27, 2008
-33; The Scarlet Letter; Hawthorne, Nathaniel; Jun 01, 1992
-34; Zen and the Art of the Internet; Kehoe, Brendan P.; Jun 01, 1992
-35; The Time Machine; Wells, H. G. (Herbert George); Oct 02, 2004
-36; The War of the Worlds; Wells, H. G. (Herbert George); Oct 01, 2004
-37; The 1990 United States Census [2nd]; United States. Bureau of the Census; Aug 01, 1992
-38; The Jargon File, Version 2.9.10, 01 Jul 1992; Raymond, Eric S.; Aug 01, 1992
-39; Hitchhiker's Guide to the Internet; Krol, Ed; Sep 01, 1992
-40; NorthWestNet User Services Internet Resource Guide (NUSIRG); Kochmer, Jonathan; Sep 01, 1992
-41; The Legend of Sleepy Hollow; Irving, Washington; Jun 27, 2008
-42; The Strange Case of Dr. Jekyll and Mr. Hyde; Stevenson, Robert Louis; Oct 01, 1992
-43; The Strange Case of Dr. Jekyll and Mr. Hyde; Stevenson, Robert Louis; Jun 27, 2008
-44; The Song of the Lark; Cather, Willa; Jun 27, 2008
-45; Anne of Green Gables; Montgomery, L. M. (Lucy Maud); Jun 27, 2008
-46; A Christmas Carol in Prose; Being a Ghost Story of Christmas; Dickens, Charles; Aug 11, 2004
-47; Anne of Avonlea; Montgomery, L. M. (Lucy Maud); Mar 08, 2006
-48; The 1992 CIA World Factbook; United States. Central Intelligence Agency; Jan 01, 1993
-49; Surfing the Internet: An Introduction; Polly, Jean Armour; Jan 01, 1993
-50; Pi; Hemphill, Scott; Jan 01, 1993
+1	The Declaration of Independence of the United States of America	Jefferson, Thomas	1971-12-01
+2	The United States Bill of Rights	United States	1972-12-01
+3	John F. Kennedy's Inaugural Address	Kennedy, John F. (John Fitzgerald)	1973-11-01
+4	Lincoln's Gettysburg Address	Lincoln, Abraham	1973-11-01
+5	The United States Constitution	United States	1975-12-01
+6	Give Me Liberty or Give Me Death	Henry, Patrick	1976-12-01
+7	The Mayflower Compact	None	1977-12-01
+8	Abraham Lincoln's Second Inaugural Address	Lincoln, Abraham	1978-12-01
+9	Abraham Lincoln's First Inaugural Address	Lincoln, Abraham	1979-12-01
+10	The King James Version of the Bible	None	1989-08-01
+11	Alice's Adventures in Wonderland	Carroll, Lewis	2008-06-27
+12	Through the Looking-Glass	Carroll, Lewis	2008-06-25
+13	The Hunting of the Snark: An Agony in Eight Fits	Carroll, Lewis	2008-06-25
+14	The 1990 CIA World Factbook	United States. Central Intelligence Agency	1991-04-01
+15	Moby Dick	Melville, Herman	1991-05-01
+16	Peter Pan	Barrie, J. M. (James Matthew)	2008-06-25
+17	The Book of Mormon	Church of Jesus Christ of Latter-day Saints	2008-06-25
+18	The Federalist Papers	Hamilton, Alexander	1991-08-01
+19	The Song of Hiawatha	Longfellow, Henry Wadsworth	2004-06-01
+20	Paradise Lost	Milton, John	1991-10-01
+21	Aesop's Fables	Aesop	2008-06-25
+22	Roget's Thesaurus	Roget, Peter Mark	1991-12-01
+23	Narrative of the Life of Frederick Douglass, an American Slave	Douglass, Frederick	2006-01-12
+24	O Pioneers!	Cather, Willa	2008-06-27
+25	The 1991 CIA World Factbook	United States. Central Intelligence Agency	1992-02-01
+26	Paradise Lost	Milton, John	1992-02-01
+27	Far from the Madding Crowd	Hardy, Thomas	1992-03-01
+28	Aesop's Fables	Aesop	1992-03-01
+29	The 1990 United States Census	United States. Bureau of the Census	1992-04-01
+30	The Bible, King James Version, Complete	None	1992-04-01
+31	Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone	Sophocles	2006-03-08
+32	Herland	Gilman, Charlotte Perkins	2008-06-27
+33	The Scarlet Letter	Hawthorne, Nathaniel	1992-06-01
+34	Zen and the Art of the Internet	Kehoe, Brendan P.	1992-06-01
+35	The Time Machine	Wells, H. G. (Herbert George)	2004-10-02
+36	The War of the Worlds	Wells, H. G. (Herbert George)	2004-10-01
+37	The 1990 United States Census [2nd]	United States. Bureau of the Census	1992-08-01
+38	The Jargon File, Version 2.9.10, 01 Jul 1992	Raymond, Eric S.	1992-08-01
+39	Hitchhiker's Guide to the Internet	Krol, Ed	1992-09-01
+40	NorthWestNet User Services Internet Resource Guide (NUSIRG)	Kochmer, Jonathan	1992-09-01
+41	The Legend of Sleepy Hollow	Irving, Washington	2008-06-27
+42	The Strange Case of Dr. Jekyll and Mr. Hyde	Stevenson, Robert Louis	1992-10-01
+43	The Strange Case of Dr. Jekyll and Mr. Hyde	Stevenson, Robert Louis	2008-06-27
+44	The Song of the Lark	Cather, Willa	2008-06-27
+45	Anne of Green Gables	Montgomery, L. M. (Lucy Maud)	2008-06-27
+46	A Christmas Carol in Prose; Being a Ghost Story of Christmas	Dickens, Charles	2004-08-11
+47	Anne of Avonlea	Montgomery, L. M. (Lucy Maud)	2006-03-08
+48	The 1992 CIA World Factbook	United States. Central Intelligence Agency	1993-01-01
+49	Surfing the Internet: An Introduction	Polly, Jean Armour	1993-01-01
+50	Pi	Hemphill, Scott	1993-01-01
