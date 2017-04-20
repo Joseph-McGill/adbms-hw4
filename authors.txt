@@ -1,0 +1,33 @@
+1; Longfellow, Henry Wadsworth; 1807
+2; Henry, Patrick; 1736
+3; Polly, Jean Armour; None
+4; Kennedy, John F. (John Fitzgerald); 1917
+5; Carroll, Lewis; 1832
+6; Dickens, Charles; 1812
+7; Sophocles; 495
+8; Gilman, Charlotte Perkins; 1860
+9; Krol, Ed; None
+10; Hamilton, Alexander; 1757
+11; Church of Jesus Christ of Latter-day Saints; None
+12; United States. Central Intelligence Agency; None
+13; Hardy, Thomas; 1840
+14; Kehoe, Brendan P.; 1970
+15; Wells, H. G. (Herbert George); 1866
+16; United States. Bureau of the Census; None
+17; Raymond, Eric S.; 1957
+18; Hemphill, Scott; None
+19; Irving, Washington; 1783
+20; Aesop; 620
+21; Montgomery, L. M. (Lucy Maud); 1874
+22; Barrie, J. M. (James Matthew); 1860
+23; Hawthorne, Nathaniel; 1804
+24; Douglass, Frederick; 1818
+25; Milton, John; 1608
+26; Roget, Peter Mark; 1779
+27; Lincoln, Abraham; 1809
+28; Stevenson, Robert Louis; 1850
+29; United States; None
+30; Kochmer, Jonathan; None
+31; Cather, Willa; 1873
+32; Melville, Herman; 1819
+33; Jefferson, Thomas; 1743
