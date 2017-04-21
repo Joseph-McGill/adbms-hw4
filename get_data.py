@@ -126,7 +126,7 @@ def print_similarities(books):
 
     # create a set of the distinct words from every book
     word_set = set() 
-    for book in books:
+    for book in books:h
         word_set |= set(book.words)
         
     # turn the set of all words into a sorted list
