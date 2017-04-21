@@ -1,33 +1,33 @@
 1	Raymond, Eric S.	1957
-2	Kochmer, Jonathan	None
-3	Irving, Washington	1783
-4	United States. Central Intelligence Agency	None
-5	Aesop	620
-6	Lincoln, Abraham	1809
-7	Polly, Jean Armour	None
-8	Douglass, Frederick	1818
-9	Kennedy, John F. (John Fitzgerald)	1917
-10	Melville, Herman	1819
-11	Barrie, J. M. (James Matthew)	1860
-12	Jefferson, Thomas	1743
-13	Milton, John	1608
-14	Krol, Ed	None
-15	Wells, H. G. (Herbert George)	1866
-16	Hemphill, Scott	None
-17	Hamilton, Alexander	1757
-18	Hardy, Thomas	1840
-19	Carroll, Lewis	1832
-20	United States	None
-21	Montgomery, L. M. (Lucy Maud)	1874
-22	Cather, Willa	1873
-23	United States. Bureau of the Census	None
-24	Church of Jesus Christ of Latter-day Saints	None
-25	Longfellow, Henry Wadsworth	1807
-26	Dickens, Charles	1812
-27	Roget, Peter Mark	1779
-28	Sophocles	495
-29	Kehoe, Brendan P.	1970
-30	Gilman, Charlotte Perkins	1860
-31	Hawthorne, Nathaniel	1804
-32	Stevenson, Robert Louis	1850
-33	Henry, Patrick	1736
+2	United States. Central Intelligence Agency	None
+3	Gilman, Charlotte Perkins	1860
+4	Hawthorne, Nathaniel	1804
+5	Henry, Patrick	1736
+6	United States. Bureau of the Census	None
+7	United States	None
+8	Carroll, Lewis	1832
+9	Longfellow, Henry Wadsworth	1807
+10	Kochmer, Jonathan	None
+11	Montgomery, L. M. (Lucy Maud)	1874
+12	Cather, Willa	1873
+13	Kennedy, John F. (John Fitzgerald)	1917
+14	Lincoln, Abraham	1809
+15	Kehoe, Brendan P.	1970
+16	Stevenson, Robert Louis	1850
+17	Hemphill, Scott	None
+18	Dickens, Charles	1812
+19	Wells, H. G. (Herbert George)	1866
+20	Jefferson, Thomas	1743
+21	Irving, Washington	1783
+22	Milton, John	1608
+23	Douglass, Frederick	1818
+24	Roget, Peter Mark	1779
+25	Polly, Jean Armour	None
+26	Hardy, Thomas	1840
+27	Sophocles	495
+28	Church of Jesus Christ of Latter-day Saints	None
+29	Melville, Herman	1819
+30	Krol, Ed	None
+31	Aesop	620
+32	Barrie, J. M. (James Matthew)	1860
+33	Hamilton, Alexander	1757
